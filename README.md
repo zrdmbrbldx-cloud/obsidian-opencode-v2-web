@@ -33,8 +33,16 @@ model selection are all handled by the OpenCode web app itself.
 
 ### BRAT (beta)
 
-Add `obsidian-opencode-v2-web` as a beta plugin via
-[BRAT](https://github.com/TfTHacker/obsidian42-brat), pointing at this repository.
+Install [BRAT](https://github.com/TfTHacker/obsidian42-brat), then run
+**BRAT: Add a beta plugin for testing** and enter:
+
+```
+zrdmbrbldx-cloud/obsidian-opencode-v2-web
+```
+
+BRAT pulls the three release assets (`main.js`, `manifest.json`, `styles.css`) from the
+[latest release](https://github.com/zrdmbrbldx-cloud/obsidian-opencode-v2-web/releases/latest)
+and keeps the plugin updated for you.
 
 ## Usage
 
