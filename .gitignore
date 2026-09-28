@@ -1,0 +1,16 @@
+# Obsidian plugin user data (contains per-vault settings)
+data.json
+
+# Dependency / build output
+node_modules/
+dist/
+*.js.map
+
+# Logs and OS cruft
+*.log
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/

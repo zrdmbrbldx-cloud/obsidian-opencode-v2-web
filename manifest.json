@@ -1,0 +1,10 @@
+{
+  "id": "opencode-v2-web",
+  "name": "OpenCode V2 Web",
+  "version": "1.0.0",
+  "minAppVersion": "1.7.2",
+  "description": "Show the OpenCode V2 web interface inside Obsidian, reusing the local OpenCode background service.",
+  "author": "zrdmbrbldx-cloud",
+  "isDesktopOnly": true,
+  "authorUrl": "https://github.com/zrdmbrbldx-cloud"
+}
